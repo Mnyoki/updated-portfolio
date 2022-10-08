@@ -1,6 +1,5 @@
 # Personal portfolio
 
-![GitHub repo size](https://github.com/Mnyoki/updated-portfolio)
 
 
 updated-portfolio is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
